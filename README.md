@@ -32,3 +32,5 @@ options:
 wget https://raw.githubusercontent.com/h6nt3r/payloads/refs/heads/main/sqli/xor.txt
 ```
 <a href="https://github.com/h6nt3r/payloads/tree/main/sqli">All SQLi payloads</a>
+
+![multi-parameter](multi-parameter.png)
