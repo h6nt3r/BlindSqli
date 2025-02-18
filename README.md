@@ -29,6 +29,6 @@ options:
 ```
 ### Download sleep payload
 ```
-wget https://raw.githubusercontent.com/freelancermijan/my-payloads/refs/heads/main/SQLi/Blind-SQLis/sleeps.txt
+wget https://raw.githubusercontent.com/h6nt3r/payloads/refs/heads/main/sqli/xor.txt
 ```
 <a href="https://github.com/h6nt3r/payloads/tree/main/sqli">All SQLi payloads</a>
