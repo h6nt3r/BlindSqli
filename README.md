@@ -27,3 +27,8 @@ options:
   -v, --verbose         Enable verbose mode
   -V, --version         show program's version number and exit
 ```
+### Download sleep payload
+```
+wget https://raw.githubusercontent.com/freelancermijan/my-payloads/refs/heads/main/SQLi/Blind-SQLis/sleeps.txt
+```
+<a href="https://github.com/h6nt3r/payloads/blob/main/sqli/xor.txt">Time Based SQLi payloads</a>
