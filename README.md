@@ -1,6 +1,6 @@
 ## Installation
 ```
-cd /opt/ && sudo git clone https://github.com/h6nt3r/BlindSqli.git && cd bsqli/
+cd /opt/ && sudo git clone https://github.com/h6nt3r/BlindSqli.git && cd BlindSqli/
 sudo chmod +x ./*.py
 cd
 sudo apt install dos2unix -y
